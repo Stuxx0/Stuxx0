@@ -8,8 +8,8 @@ This profile will grow alongside my university work, home lab, and independent p
 
 ### Currently Learning 📖
 
-- Python
-- Linux
+- Processing
+- Security and Forensics
 - Networking
 
 ### Connect📱
